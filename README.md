@@ -1,4 +1,4 @@
-# Test your FastAPI endpoints
+# Exposed FastAPI endpoints
 
 GET http://127.0.0.1:8000/
 
